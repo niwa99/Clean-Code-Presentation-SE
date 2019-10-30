@@ -11,7 +11,7 @@ Starting the program, six lottery numbers from 1 to 49 and a bonus number are ge
 After that, the generated numbers are printed to the console and the user is asked if another "generating-round" should be started.
 
 The given code ([LotterySimulation](https://github.com/niwa99/Clean-Code-Presentation-SE/blob/master/LotterySimulation.java)) contains a lot of bad code which has to be refactored.
-Be aware of the four important clean-code-characteristics (Meaningful Names, Methods, Comments and Formatting), which you heard in the presentation. If you want, you can read the tutorial for refactoring the code parallely.
+Be aware of the four important clean-code-characteristics (Meaningful Names, Methods, Comments and Formatting), which you heard in the presentation. If you want, you can read the [tutorial](https://github.com/niwa99/Clean-Code-Presentation-SE/blob/master/Clean%20Code%20Tutorial.pdf) for refactoring the code parallely.
 
 ## 3. Afterwork ##
 After refactoring the given code, you can have a look at my solution proposal: [LotterySimulationClean - Solution](https://github.com/niwa99/Clean-Code-Presentation-SE/blob/master/LotterySimulationClean.java).
